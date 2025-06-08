@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
  
 <p align="center">  
   <a href="https://github.com/Jabeztechinfo">
-    <img alt="Jabez" height="300" src="https://i.ibb.co/dW8DNtY/Blog-log.png">
+    <img alt="Jabez" height="300" src="">
     <h1 align="center">Hy 👋 Jabez Here</h1>
   </a>
 </p>
